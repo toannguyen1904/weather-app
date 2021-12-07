@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 This is a basic weather application. Using this app, you can get the information about the weather of over 200,000 cities
-through the API of [https://openweathermap.org]
+through the API of [https://openweathermap.org].\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
